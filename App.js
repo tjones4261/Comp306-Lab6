@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
+// use this file to begin lab 6
 export default function App() {
   return (
     <View style={styles.container}>
